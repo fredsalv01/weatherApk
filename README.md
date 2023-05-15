@@ -1,5 +1,6 @@
 # Weather App
-This is a simple weather app built with React Native that shows the weather based on the user's location and uses LocalStorage to save the last searched location.
+This is a simple weather app built with React Native that shows the weather based on the user's location and uses LocalStorage to save the last searched location.<br><br>
+To try the app on your mobile device enter in the next page https://expo.dev/@salvedy/weatherApp?serviceType=classic&distribution=expo-go and scan the qr code below.
 
 ## Installation
 To install this project, follow these steps:
