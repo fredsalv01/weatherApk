@@ -55,7 +55,7 @@ const HomeScreen = () => {
 
   const fetchMyWeatherData = async () => {
     let myCity = await getData("city");
-    let cityName = myCity ? myCity : "Chinandega";
+    let cityName = myCity ? myCity : "Lima";
     const response = await fetchWeatherForecast({
       cityName,
       days: "7",
